@@ -1,0 +1,7 @@
+README.md
+setup.py
+gym_naoqi.egg-info/PKG-INFO
+gym_naoqi.egg-info/SOURCES.txt
+gym_naoqi.egg-info/dependency_links.txt
+gym_naoqi.egg-info/requires.txt
+gym_naoqi.egg-info/top_level.txt
